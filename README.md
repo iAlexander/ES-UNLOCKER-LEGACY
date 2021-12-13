@@ -9,8 +9,7 @@
 ## ES-UNLOCKER - Okai ES200B Scooter
 1. [Description](#description)
 2. [Pictures](#pictures)
-3. [License](#license)
-4. [Contact](#contact)
+3. [Contact](#contact)
 
 ## <a name="description">Description:</a>
 
@@ -24,12 +23,9 @@ The main goal of the microcontroller application ```ES-UNLOCKER``` - is to help 
 ## <a name="license">License:</a>
 
 ```ES-UNLOCKER``` is released under the MIT license. Check the ```LICENSE``` file for details.  
-Copyright © 2021-2022 <a href="http://iashchuk.com">Alexander Iashchuk</a>.
+Copyright © 2021
 
 ## <a name="contact">Contact:</a>
 
 You can read, follow or drop me a line on my personal Twitter account - [@iAlexander13](https://twitter.com/iAlexander13).  
-If you find any issues on the project, you can open a ticket.  
-Pull requests are also welcome!
-
 [![iAlexander - Нотатки громадянина України](https://raw.githubusercontent.com/iAlexander/Homepok/master/Footer.jpg)](https://twitter.com/iAlexander13)
