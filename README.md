@@ -1,8 +1,8 @@
-[![Scooter](https://img.shields.io/badge/Scooter-OKAI_ES200B-orange.svg?style=flat)](#)
 [![Framework](https://img.shields.io/badge/Framework-Arduino-green.svg?style=flat)](#)
-[![Devices](https://img.shields.io/badge/Devices-ESP8266_ESP32-lightgray.svg?style=flat)](#)
-[![Version](https://img.shields.io/badge/App_version-1.0.1-blue.svg?style=flat)](#)
-[![Distribution](https://img.shields.io/badge/Distribution-Free-brightgreen.svg?style=flat)](http://iashchuk.com)
+[![Hardware](https://img.shields.io/badge/Micro-ESP8266_ESP32-lightgray.svg?style=flat)](#)
+[![Scooter](https://img.shields.io/badge/Scooter-OKAI_ES200B-orange.svg?style=flat)](#)
+[![Version](https://img.shields.io/badge/Version-1.0.1-blue.svg?style=flat)](#)
+[![Distribution](https://img.shields.io/badge/Use_for-Free-brightgreen.svg?style=flat)](http://iashchuk.com)
 
 [![ES-UNLOCKER - Okai ES200B Scooter](https://raw.githubusercontent.com/iAlexander/Homepok/master/Header.jpg)](http://iashchuk.com)
 
