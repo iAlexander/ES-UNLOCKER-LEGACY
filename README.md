@@ -1,5 +1,5 @@
-[![Device](https://img.shields.io/badge/OKAI-ES200B-orange.svg?style=flat)](#)
-[![Framework](https://img.shields.io/badge/Arduino-green.svg?style=flat)](#)
+[![Scooter](https://img.shields.io/badge/Scooter-OKAI_ES200B-orange.svg?style=flat)](#)
+[![Framework](https://img.shields.io/badge/Framework-Arduino-green.svg?style=flat)](#)
 [![Devices](https://img.shields.io/badge/Devices-ESP8266_ESP32-lightgray.svg?style=flat)](#)
 [![Version](https://img.shields.io/badge/App_version-1.0.1-blue.svg?style=flat)](#)
 [![Distribution](https://img.shields.io/badge/Distribution-Free-brightgreen.svg?style=flat)](http://iashchuk.com)
@@ -24,7 +24,7 @@ The main goal of the microcontroller application ```ES-UNLOCKER``` - is to help 
 ## <a name="license">License:</a>
 
 ```ES-UNLOCKER``` is released under the MIT license. Check the ```LICENSE``` file for details.  
-Copyright © 2015-2017 <a href="http://iashchuk.com">Alexander Iashchuk</a>.
+Copyright © 2021-2022 <a href="http://iashchuk.com">Alexander Iashchuk</a>.
 
 ## <a name="contact">Contact:</a>
 
