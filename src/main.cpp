@@ -16,7 +16,7 @@
 */
 
 //////////////////////////////////////////////
-//        include libraries                 //
+//        include all libraries             //
 //////////////////////////////////////////////
 
 // RemoteXY select connection mode and include library
@@ -27,7 +27,7 @@
 #include <Arduino.h>
 
 // RemoteXY connection settings
-#define REMOTEXY_BLUETOOTH_NAME "Scooter Rebellion"
+#define REMOTEXY_BLUETOOTH_NAME "iAlexander Scooter"
 
 // RemoteXY configurate
 #pragma pack(push, 1)
