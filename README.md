@@ -1,7 +1,7 @@
 [![Framework](https://img.shields.io/badge/Framework-Arduino-green.svg?style=flat)](#)
 [![Hardware](https://img.shields.io/badge/Micro-ESP8266_ESP32-lightgray.svg?style=flat)](#)
 [![Scooter](https://img.shields.io/badge/Scooter-OKAI_ES200B-orange.svg?style=flat)](#)
-[![Version](https://img.shields.io/badge/Version-1.0.1-blue.svg?style=flat)](#)
+[![Version](https://img.shields.io/badge/Version-0.0.9-blue.svg?style=flat)](#)
 [![Distribution](https://img.shields.io/badge/Use_for-Free-brightgreen.svg?style=flat)](http://iashchuk.com)
 
 [ES-UNLOCKER - Okai ES200B Scooter](http://iashchuk.com)
@@ -23,9 +23,5 @@ The main goal of the microcontroller application ```ES-UNLOCKER``` - is to help 
 ## <a name="license">License:</a>
 
 ```ES-UNLOCKER``` is released under the MIT license. Check the ```LICENSE``` file for details.  
-Copyright © 2021
-
-## <a name="contact">Contact:</a>
-
-You can read, follow or drop me a line on my personal Twitter account - [@iAlexander13](https://twitter.com/iAlexander13).  
+Copyright © 2021 [@iAlexander13](https://twitter.com/iAlexander13).  
 [![iAlexander - Нотатки громадянина України](https://raw.githubusercontent.com/iAlexander/Homepok/master/Footer.jpg)](https://twitter.com/iAlexander13)
